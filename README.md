@@ -1,5 +1,5 @@
-#Customer Behavior Analysis
-#Project Overview
+Customer Behavior Analysis
+Project Overview
 
 This project focuses on analyzing customer behavior data to uncover valuable insights into purchasing patterns, customer segmentation, retention trends, and business performance. The analysis combines SQL for data extraction and transformation, Python for data cleaning and exploratory analysis, and Power BI for interactive dashboards and visual reporting.
 
